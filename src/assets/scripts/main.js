@@ -2,13 +2,14 @@ import 'focus-visible'
 
 document.documentElement.classList.remove('no-js')
 
+document.documentElement.classList.add(scrollClassName)
 // Scroll State
 const onScroll = () => {
     const scrollClassName = 'js-scrolled'
     const scrollTreshold = 200
     const isOverTreshold = window.scrollY > scrollTreshold
-
-    document.documentElement.classList.add(scrollClassName)
+    
+    // document.documentElement.classList.add(scrollClassName)
     // if (isOverTreshold) {
     //     document.documentElement.classList.add(scrollClassName)
     // } else {
