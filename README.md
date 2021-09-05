@@ -1,5 +1,5 @@
 # My Resume
-This is my resume.
+[This](https://ezharjan.github.io/cv) is my resume.
 
 <br>
 <br>
