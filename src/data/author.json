@@ -1,44 +1,76 @@
 {
-    "name": "Anna Quincey",
-    "occupation": "Front-End Developer",
-    "location": "Vienna, AT",
+    "name": "Alexander Ezharjan",
+    "occupation": "Software Engineer",
+    "location": "Beijing, China",
     "avatar": "avatar.jpg",
-    "pronouns": "she/her",
-    "email": "anna.quincey@gmail.com",
-    "telephone": "+01 23 456 789",
-    "website": "https://annaquincey.dev",
+    "pronouns": "",
+    "email": "mysoft@111.com",
+    "telephone": "N/A",
+    "website": "https://ezharjan.xyz",
     "skills": [
-        "HTML",
-        "CSS",
-        "Javascript / ES6",
+        "C/C++",
+        "Lua",
+        "C#",
+        "Unity 3D",
+        "UE4",
+        "Python",
+        "PHP",
+        "Java",
+        "Typescript",
+        "Javascript/ES6",
+        "Node.js",
+        "MySQL",
+        "Redis",
+        "MongoDB",
+        "Vue",
+        "Angular",
+        "3ds Max",
         "UI Design",
-        "React",
-        "Git"
+        "Substance Painter",
+        "UV layout",
+        "Photoshop",
+        "Vegas",
+        "After effects",
+        "EDIUS",
+        "Premiere Pro"
     ],
     "languages": [
         {
-            "name": "English",
+            "name": "Chinese Mandarin",
             "level": "native"
         },
         {
-            "name": "German",
+            "name": "Uyghur",
+            "level": "native"
+        },
+        {
+            "name": "English",
             "level": "fluent"
         },
         {
-            "name": "French",
+            "name": "Uzbek",
+            "level": "basic"
+        },
+        {
+            "name": "Kirghiz",
             "level": "basic"
         }
     ],
     "social": [
         {
             "name": "Github",
-            "user": "@annaquincey",
-            "url": "https://github.com/annaquincey"
+            "user": "@Ezharjan",
+            "url": "https://github.com/Ezharjan"
         },
         {
-            "name": "LinkedIn",
-            "user": "AnnaQncy",
-            "url": "https://www.linkedin.com/in/annaquincey"
+            "name": "Gitee",
+            "user": "@Ezharjan",
+            "url": "https://gitee.com/ezharjan"
+        },
+        {
+            "name": "CSDN",
+            "user": "Ezharjan",
+            "url": "https://ezhar.blog.csdn.net/"
         }
     ]
 }

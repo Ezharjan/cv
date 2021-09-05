@@ -13,9 +13,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/maxboeck/resume"
+    "url": "https://github.com/Ezharjan/cv"
   },
-  "author": "Max Böck",
+  "author": "Alexander Ezharjan",
   "license": "MIT",
   "dependencies": {
     "@11ty/eleventy": "^0.12.1",

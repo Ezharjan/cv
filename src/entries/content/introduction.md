@@ -3,4 +3,4 @@ tags: introduction
 title: About Me
 ---
 
-I am a web developer with over 12 years of experience in the front-end and a special background in digital design. My focus is on creating engaging, accessible & performant interfaces for humans. I am currently looking for new challenges.
+I'm a software engineer with 4 years of experience in the field of software and a special background in game engine development. My focus is on enhancing the perfomance of render engines as well as creating convenient tools and APIs for game developers. My work includes the direct engagement in game development as a Game Developer & Game Engine Developer.
