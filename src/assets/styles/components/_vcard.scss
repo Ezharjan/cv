@@ -35,7 +35,7 @@
 
         @include hover-focus {
             text-decoration: none;
-            
+
             .vcard__link-text {
                 text-decoration: underline;
             }
@@ -67,7 +67,7 @@
             &__avatar {
                 position: fixed;
                 top: calc(#{$spacing-y} + 1rem);
-                right: 75%;
+                right: 80%;
                 transform: translateX(25%);
                 transition: transform 0.2s ease;
                 margin: 0;

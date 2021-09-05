@@ -8,11 +8,12 @@ const onScroll = () => {
     const scrollTreshold = 200
     const isOverTreshold = window.scrollY > scrollTreshold
 
-    if (isOverTreshold) {
-        document.documentElement.classList.add(scrollClassName)
-    } else {
-        document.documentElement.classList.remove(scrollClassName)
-    }
+    document.documentElement.classList.add(scrollClassName)
+    // if (isOverTreshold) {
+    //     document.documentElement.classList.add(scrollClassName)
+    // } else {
+    //     document.documentElement.classList.remove(scrollClassName)
+    // }
 }
 window.addEventListener('scroll', onScroll, { passive: true })
 
