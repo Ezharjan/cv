@@ -19,7 +19,8 @@ module.exports = async function () {
                 type: 'json'
             }
         )
-        return orderBy(repos, 'stargazers_count', 'desc')
+        // return orderBy(repos, 'stargazers_count', 'desc')
+        return repos
     } catch (e) {
         console.log('Failed fetching GitHub repos')
         return []

@@ -24,6 +24,7 @@ Four [software copyrights](https://raw.githubusercontent.com/Ezharjan/cv/built/a
 [Outstanding Student Awards of Beijing University of Technology(2-times)](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/awards/杰出学子雏鹰计划_艾孜尔江-min.jpg)
 [Star of Self Improvement of Beijing University of Technology in 2019](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/awards/自强之星获奖证书-min.jpg)
 [National Translator of Chinese&English](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/awards/国家三级笔译员_艾孜尔江-min.jpg)
+_etc._
 
 <br>
 <br>
@@ -34,19 +35,20 @@ Ohter Experience
 ---
 ---
 
-[Established the Flash Cultural Online Studio]() of University of Technology (channels are including OpenGL introduction, software tutorials and a program called _Reading and Sharing_).
-Developed a software called ["LuBan lock teaching demonstration application"]() based on OpenGL©.
-Developed an Android application called ["Study Healthily"]()© using Java.
+[Established the Flash Cultural Online Studio](https://space.bilibili.com/474084000) of University of Technology (channels are including OpenGL introduction, software tutorials and a program called _[Reading and Sharing](https://github.com/Ezharjan/WanLiTongFengScripts.git)_).
+Developed a software called ["LuBan lock teaching demonstration application"]()© based on OpenGL.
+Developed an Android application called ["Study Healthily"](https://github.com/Ezharjan/StudyWithMe.git)© using Java.
 [Full stack project "Fun Bag"](), a bag taking system for supermarkets©.
-In the summer of 2019, I took part in the _National College Creative Star Exploration program_ to study the game developing basics and developed the game called ["Wan Li Tong Feng"]().
+During the summer vacation of 2019, I took part in the _National College Creative Star Exploration program_ to study the game developing basics and developed the game called ["Wan Li Tong Feng"](https://www.bilibili.com/video/BV11t411M7ak?share_source=copy_web), [source code](https://github.com/Ezharjan/WanLiTongFengScripts.git) is now open on Github.
+My First online multiplayer game ["Attacker"](https://gitee.com/ezharjan/MyTeamGame) was made during the summer vacation of 2019.
 Participated in the development of ["Wild Assistant"](), a Wechat mini-app for students to check their exam results in school.
-Using web front-end development technology and Electron framework, [a simple 2D game engine is made]().
-And [a game]() similar to _Magic Tower_ is developed through [my own game engine]().
-As a training lecturer, I participated in the [C language tutoring]() for the Dublin International College for one semester.
-Took part in a [volunteer work as a peer lecturer on C/C++]().
-On June 17, 2021, the graduation project entitled "Design and Implementation of Live Video System Based on Unity 3D" was awarded as the [Excellent Graduation Project of Beijing University of Technology]() and was included in the excellent thesis selection.
-[A number of micro films]() that were written, directed and performed in high school have won many national awards ([Rawap With Broken String](), [Priceless Youth](), [The Way Home](), [Looking For Kavser](), etc.).
-I was also awarded [the first prize of Campus TV Host Competition]() when I was in senior high school.
+Using web front-end development technology and Electron framework, [a simple 2D game engine is made](https://gitee.com/ezharjan/MyTeamGame).
+And [a game]() similar to _Magic Tower_ is developed through [my own game engine](https://www.bilibili.com/video/BV16K411H753?share_source=copy_web), and it's playable [online](https://ezharjan.gitee.io/myteamgame).
+As a training lecturer, I participated in the [C language tutoring](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/awards/国际学院C语言辅导记录照片.jpg) for the Dublin International College for one semester.
+Took part in a [volunteer work as a peer lecturer on C/C++](https://www.bilibili.com/video/BV1jE411D7S5/).
+On June 17, 2021, the graduation project entitled "Design and Implementation of Live Video System Based on Unity 3D" was awarded as the [Excellent Graduation Project of Beijing University of Technology](https://gitee.com/ezharjan/live-receiver) and was included in the excellent thesis selection.
+[A number of micro films](https://www.cnblogs.com/ezhar/p/14259440.html) that were written, directed and performed in high school have won many national awards ([Rawap With Broken String](https://v.qq.com/x/page/v07763zvo0a.html), [Priceless Youth](https://www.bilibili.com/video/BV1fE411o7z2?share_source=copy_web), [The Way Home](https://www.bilibili.com/video/BV1fE411o7z2?share_source=copy_web), [Once Upon a Time in Kashgar during My Summer Vacation](https://v.qq.com/x/page/u0772ucsspi.html), Looking For Kavser, etc.).
+I was also awarded [the first prize of Campus TV Host Competition](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/awards/《阳光心弦》证书.jpg) when I was in senior high school.
 
 
 <br>
@@ -66,7 +68,7 @@ Certificates
 School Performance
 ---
 ---
-During the study in university, the total weighted score was 91.04, with GPA of 3.81, ranking first in the major.
+During the study in university, the total weighted score was **91.04**, **with GPA of 3.81**, ranking first in the major.
 
 
 <br>
@@ -77,6 +79,25 @@ Interests
 ---
 ---
 * Programming
-* Reading
+* Computer Graphics
+* Real Time Rendering
+* Reading Books
 * Film making
 * Traveling
+
+
+
+<html>
+    <table style="margin-left: auto; margin-right: auto;">
+        <tr>
+            <td  style="padding-right:300px;">
+                <!--左侧内容-->
+            </td>
+            <td  style="padding-left:300px;">
+                <!--右侧内容-->
+            </td>
+        </tr>
+    </table>
+</html>
+
+---

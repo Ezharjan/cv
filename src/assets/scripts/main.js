@@ -1,14 +1,15 @@
 import 'focus-visible'
+import $ from 'jquery'
 
 document.documentElement.classList.remove('no-js')
 
 // Scroll State
 // const onScroll = () => {
-const AlwaysOpen = () => {
+const AlwaysShowBtns = () => {
     const scrollClassName = 'js-scrolled'
     const scrollTreshold = 200
     const isOverTreshold = window.scrollY > scrollTreshold
-    
+
     document.documentElement.classList.add(scrollClassName)
     // if (isOverTreshold) {
     //     document.documentElement.classList.add(scrollClassName)
@@ -17,9 +18,17 @@ const AlwaysOpen = () => {
     // }
 }
 // window.addEventListener('scroll', onScroll, { passive: true })
-AlwaysOpen()
+AlwaysShowBtns()
+
 // Print Button
 const printButton = document.querySelector('.js-print')
 printButton.addEventListener('click', () => {
     window.print()
+})
+
+$(document).ready(function () {
+    //为超链接加上target='_blank'属性
+    $('a[href^="http"]').each(function () {
+        $(this).attr('target', '_blank')
+    })
 })

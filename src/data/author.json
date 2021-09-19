@@ -54,6 +54,10 @@
         {
             "name": "Kirghiz",
             "level": "basic"
+        },
+        {
+            "name": "Kazakh",
+            "level": "basic"
         }
     ],
     "social": [
