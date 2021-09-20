@@ -1,7 +1,7 @@
 ---
 title: Full Stack Engineer
-organization: Beijing Zhi Lin Fengming Technology Co., Ltd
-organizationUrl: N/A
+organization: Beijing Zhi Lin Xinchen Technology Co., Ltd
+organizationUrl: https://www.tianyancha.com/company/3392803611
 location: Beijing, CHN
 start: 2020-09-11
 end: 2020-11-01
