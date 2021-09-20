@@ -21,15 +21,11 @@ const AlwaysShowBtns = () => {
 // window.addEventListener('scroll', onScroll, { passive: true })
 AlwaysShowBtns()
 
-// Print Button
+// Print Button -->directly added in its own tag
 // const printButton = document.querySelector('.js-print')
 // printButton.addEventListener('click', () => {
 //     window.print()
 // })
-
-$(document).on('click','.js-print',function (e) {
-    window.print()
-});
 
 
 
