@@ -17,13 +17,10 @@ function tryTillSucceed(arg,tryTimes)
     return
 end
 
-local commitInfo = '\"auto commit at ostime(' .. string.sub(tostring(os.time()),5) .. ') via gitPusher\"'
-local addCmd = 'git add .'
-local commitCmd = 'git commit -m ' .. commitInfo
-local pushCmd =  'git push -u origin master'
+local pushCmd =  'git push -u origin built'
 local pullCmd =  'git pull'
 
-os.execute(addCmd)
-os.execute(commitCmd)
+commander('git add .')
+commander('git commit -m "renewed"')
 tryTillSucceed(pushCmd)
 tryTillSucceed(pullCmd)
