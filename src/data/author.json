@@ -63,18 +63,23 @@
     "social": [
         {
             "name": "Github",
-            "user": "@Ezharjan",
+            "user": "Ezharjan",
             "url": "https://github.com/Ezharjan"
         },
         {
             "name": "Gitee",
-            "user": "@Ezharjan",
+            "user": "Ezharjan",
             "url": "https://gitee.com/ezharjan"
         },
         {
             "name": "CSDN",
+            "user": "艾孜尔江",
+            "url": "https://ezhar.blog.csdn.net"
+        },
+        {
+            "name": "CNBlog",
             "user": "Ezharjan",
-            "url": "https://ezhar.blog.csdn.net/"
+            "url": "https://ezhar.cnblogs.com"
         }
     ]
 }
