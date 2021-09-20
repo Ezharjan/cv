@@ -50,7 +50,8 @@ As a training lecturer, I participated in the [C language tutoring](https://raw.
 Took part in a [volunteer work as a peer lecturer on C/C++](https://www.bilibili.com/video/BV1jE411D7S5/).
 On June 17, 2021, the graduation project entitled "Design and Implementation of Live Video System Based on Unity 3D" was awarded as the [Excellent Graduation Project of Beijing University of Technology](https://gitee.com/ezharjan/live-receiver) and was included in the excellent thesis selection.
 [A number of micro films](https://www.cnblogs.com/ezhar/p/14259440.html) that were written, directed and performed in high school have won many national awards ([Rawap With Broken String](https://v.qq.com/x/page/v07763zvo0a.html), [Priceless Youth](https://www.bilibili.com/video/BV1fE411o7z2?share_source=copy_web), [The Way Home](https://www.bilibili.com/video/BV1fE411o7z2?share_source=copy_web), [Once Upon a Time in Kashgar during My Summer Vacation](https://v.qq.com/x/page/u0772ucsspi.html), Looking For Kavser, etc.).
-I was also awarded [the first prize of Campus TV Host Competition](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/awards/《阳光心弦》证书.jpg) when I was in senior high school.
+One of my micro film ([Rawap With Broken String](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/awards/《阳光心弦》证书.jpg)) was publicly revealed and got many national awards.
+I was also awarded [the first prize of Campus TV Host Competition](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/awards/全国主持人大赛一等奖奖杯.jpg) when I was in senior high school.
 
 
 <br>
