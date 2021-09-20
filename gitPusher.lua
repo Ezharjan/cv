@@ -20,5 +20,7 @@ end
 local pushCmd =  'git push -u origin master'
 local pullCmd =  'git pull'
 
+commander('git add .')
+commander('git commit -m "renewed"')
 tryTillSucceed(pushCmd)
 tryTillSucceed(pullCmd)
