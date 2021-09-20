@@ -1,4 +1,5 @@
 local function commander(argToExcute)
+    print('argument is: ',argToExcute)
     local result = io.popen(argToExcute)
     local strInfo = result:read("*all")
     return strInfo
@@ -7,7 +8,6 @@ end
 function tryTillSucceed(arg,tryTimes)
     tryTimes = tryTimes or 1000
     for i = 1,tryTimes,1 do
-        print('argument is: ',arg)
         local res = commander(arg)
         if res ~= '' then
             print('Conduction succeeded!')
