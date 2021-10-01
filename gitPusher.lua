@@ -17,7 +17,7 @@ function tryTillSucceed(arg,tryTimes)
     return
 end
 
-local pushCmd =  'git push -u origin built'
+local pushCmd =  'git push -f origin built'
 local pushCmdGitee =  'git push -f originGitee built'
 local pullCmd =  'git pull'
 
