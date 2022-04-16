@@ -33,7 +33,7 @@ _etc._
 Academic Achievements
 ---
 ---
-[Online Live Broadcasting System Based On 3D Scenes(First Author)(基于三维场景的在线视频直播系统)](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=SCPD&dbname=SCPD202102&filename=CN113382305A&uniplatform=NZKPT&v=h8Rtgte5nZtON59qvje7enPr1Aqe9neuwEZdUftPonwLSDII0PYa_-W4fv_gUfY5)
+[<PATENT>Online Live Broadcasting System Based On 3D Scenes(First Author)(基于三维场景的在线视频直播系统<专利>)](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=SCPD&dbname=SCPD202102&filename=CN113382305A&uniplatform=NZKPT&v=h8Rtgte5nZtON59qvje7enPr1Aqe9neuwEZdUftPonwLSDII0PYa_-W4fv_gUfY5)
 Polymerized Search Engine(First Author)("聚合搜"多元聚合搜索工具软件-软件著作权)
 Study With Me(First Author)("自习宝"安卓应用软件-软件著作权)
 Fun Bag(First Author)("趣袋"环保取袋系统-软件著作权)
@@ -41,6 +41,7 @@ Lun Ban Lock(First Author)("鲁班锁"教学演示应用软件-软件著作权)
 Render Engine(First Author)(渲染器教学演示应用软件-软件著作权)
 Image Processor(First Author)(跨平台图片处理工具软件-软件著作权)
 _Others are on the way_ ...
+
 
 
 
@@ -102,10 +103,10 @@ During the study in Beijing University of Technology(where I got my bachelorship
 Interests
 ---
 ---
-* Programming
-* Computer Graphics
-* Real Time Rendering
-* [Reading Books](https://www.bilibili.com/video/BV1zE411F7m3/?spm_id_from=333.788.recommend_more_video.2)
+* Exercising
+* [Programming](https://gitee.com/softwarelab)
+* [Computer Graphics](https://www.bilibili.com/video/BV1jE411D7S5/)
+* [Reading & Writing & Lecturing](https://www.bilibili.com/video/BV1zE411F7m3/?spm_id_from=333.788.recommend_more_video.2)
 * [Film making](https://space.bilibili.com/474084000?spm_id_from=333.788.0.0)
 
 

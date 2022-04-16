@@ -12,27 +12,17 @@
         "Lua",
         "C#",
         "Unity 3D",
-        "UE4",
-        "Python",
+        "Unreal Engine 4",
+        "Python 3",
         "PHP",
         "Java",
         "Typescript",
-        "Javascript/ES6",
         "Node.js",
-        "MySQL",
-        "Redis",
-        "MongoDB",
-        "Vue",
-        "Angular",
-        "3ds Max",
-        "UI Design",
-        "Substance Painter",
-        "UV layout",
-        "Photoshop",
-        "Vegas",
-        "After effects",
-        "EDIUS",
-        "Premiere Pro"
+        "Javascript(ES6)/Vue",
+        "MySQL/Redis/MongoDB",
+        "Basic 3D Models Modeling",
+        "Advanced UI & Layout Designing",
+        "Advanced film cutting and effecting"
     ],
     "languages": [
         {
@@ -45,11 +35,11 @@
         },
         {
             "name": "English",
-            "level": "fluent"
+            "level": "native"
         },
         {
             "name": "Uzbek",
-            "level": "basic"
+            "level": "fluent"
         },
         {
             "name": "Kirghiz",
@@ -58,6 +48,10 @@
         {
             "name": "Kazakh",
             "level": "basic"
+        },
+        {
+            "name": "Tatar",
+            "level": "primary"
         }
     ],
     "social": [
