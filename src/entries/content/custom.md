@@ -4,6 +4,7 @@ title: Awards
 ---
 
 
+
 [National Scholarship](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/awards/国家奖学金获奖证书-min.jpg)
 [Inspirational Figures of the Capital in 2020](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/awards/首都校园励志人物-min.jpg)
 [National Encouragement Scholarship (Twice)](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/awards/2018-2019国家励志奖学金-min.jpg)
@@ -28,6 +29,26 @@ _etc._
 
 <br>
 <br>
+
+Academic Achievements
+---
+---
+[Online Live Broadcasting System Based On 3D Scenes(First Author)(基于三维场景的在线视频直播系统)](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=SCPD&dbname=SCPD202102&filename=CN113382305A&uniplatform=NZKPT&v=h8Rtgte5nZtON59qvje7enPr1Aqe9neuwEZdUftPonwLSDII0PYa_-W4fv_gUfY5)
+Polymerized Search Engine(First Author)("聚合搜"多元聚合搜索工具软件-软件著作权)
+Study With Me(First Author)("自习宝"安卓应用软件-软件著作权)
+Fun Bag(First Author)("趣袋"环保取袋系统-软件著作权)
+Lun Ban Lock(First Author)("鲁班锁"教学演示应用软件-软件著作权)
+Render Engine(First Author)(渲染器教学演示应用软件-软件著作权)
+Image Processor(First Author)(跨平台图片处理工具软件-软件著作权)
+_Others are on the way_ ...
+
+
+
+
+<br>
+<br>
+
+
 
 
 
@@ -62,7 +83,7 @@ Certificates
 ---
 ---
 
-[National Junior Translator (English-Chinese, China Accreditation Test for Translators and Interpreters)](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/awards/国家三级笔译员_艾孜尔江-min.jpg); [CET6 (written test score:536, oral test score: A)](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/awards/大学英语六级成绩证明_艾孜尔江-min.jpg); [Level 2A in National Mandarin Proficiency Test](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/awards/普通话水平测试证书扫描版-min.jpg).
+[Member of China Society of Image and Graphics](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/awards/艾孜尔江中国图形学学会会员证书.jpg); [National Junior Translator (English-Chinese, China Accreditation Test for Translators and Interpreters)](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/awards/国家三级笔译员_艾孜尔江-min.jpg); Member of Translators Association of China; [CET6 (written test score:536, oral test score: A)](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/awards/大学英语六级成绩证明_艾孜尔江-min.jpg); [Level 2A in National Mandarin Proficiency Test](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/awards/普通话水平测试证书扫描版-min.jpg).
 
 <br>
 <br>
@@ -71,7 +92,7 @@ Certificates
 School Performance
 ---
 ---
-During the study in university, the total weighted score was **91.04**, **with GPA of 3.81**, ranking first in the major.
+During the study in Beijing University of Technology(where I got my bachelorship), the total weighted score was **91.04**, **with GPA of 3.81**, ranking first in the major.
 
 
 <br>
@@ -84,9 +105,9 @@ Interests
 * Programming
 * Computer Graphics
 * Real Time Rendering
-* Reading Books
-* Film making
-* Traveling
+* [Reading Books](https://www.bilibili.com/video/BV1zE411F7m3/?spm_id_from=333.788.recommend_more_video.2)
+* [Film making](https://space.bilibili.com/474084000?spm_id_from=333.788.0.0)
+
 
 
 
