@@ -1,5 +1,5 @@
 ---
-title: A-Levels
+title: High School
 organization: Shanghai ZhujiaJiao Senior High Scchool
 location: Shanghai, CHN
 start: 2013-09-01

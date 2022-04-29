@@ -6,7 +6,7 @@
     "pronouns": "",
     "email": "mysoft@111.com",
     "telephone": "N/A",
-    "website": "https://ezharjan.xyz",
+    "website": "https://softwarelab.gitee.io/publicblog",
     "skills": [
         "C/C++",
         "Lua",
@@ -26,7 +26,7 @@
     ],
     "languages": [
         {
-            "name": "Chinese Mandarin",
+            "name": "Mandarin",
             "level": "native"
         },
         {
