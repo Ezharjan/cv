@@ -8,7 +8,7 @@
 2. Change the branch to the `master`s;
 3. `git checkout master` to move to the master's branch for development;
 4. `npm i` to install all the dependencies;
-5. If you don't have the stable network environment, the `node_modules` in branch `libs` is available in this repository.
+5. If you don't have the stable network environment, the `node_modules` is available [online](xxx).
 6. You can directly place the `node_modules` from branch `libs` and no need to `npm install` at all.
 7. Revise the contents of the resume as you wish in source folder;
 8. Be sure to reference the contents in the source files and place the images into the correct folders so that you are able view them later online;
