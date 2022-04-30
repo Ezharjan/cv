@@ -59,7 +59,7 @@ Ohter Experience
 - I developed a soft renderer without using any libraries except Windows.h, and the ["Render Engine"](https://github.com/Ezharjan/RenderEngine.git)© is now open source online.
 - I developed web application for image processing, the ["Online Image Processor"](https://github.com/Ezharjan/OnlineImgCopressor.git)© is open source and [usable online](https://ezharjan.github.io/OnlineImgCopressor).
 - I developed an Android application called ["Study Healthily"](https://github.com/Ezharjan/StudyWithMe.git)© using Java.
-- I hosted the [full stack project "Fun Bag"](https://github.com/Ezharjan/FunBag.git), which is a bag taking system for supermarkets©.
+- I hosted the [full stack project "Fun Bag"](https://github.com/Ezharjan/FunBag.git)©, which is a bag taking system for supermarkets.
 - During the summer vacation of 2019, I took part in the _National College Creative Star Exploration program_ to study the game developing basics and developed the game called ["Wan Li Tong Feng"](https://www.bilibili.com/video/BV11t411M7ak?share_source=copy_web), [source code](https://github.com/Ezharjan/WanLiTongFengScripts.git) is now open on Github.
 - My First online multiplayer game ["Attacker"](https://gitee.com/ezharjan/MyTeamGame) was made during the summer vacation of 2019.
 - Participated in the development of ["Wild Assistant"](https://github.com/WildHelper/MiniProgram.git), a Wechat mini-app for students to check their exam results in school.
