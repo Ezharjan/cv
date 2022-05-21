@@ -56,7 +56,7 @@
 <button class="actions__btn js-print utl-screen-only has-tooltip" aria-label="Print Résumé" onclick="print()">
 ```
 11. **Note:** Make sure that the images you placed in `assets folder` is also placed into the assets folder of branch 'built', if not, copy them into the folder; 
-12. `lua53 gitPusher.lua` to push the built branch onto the online repository;
+12. `lua gitPusher.lua` to push the built branch onto the online repository;
 13. Manually click `force update` on Gitee Pages Services to deploy the latest version of your resume;
 14. Open the Gitee page to view the result.
 
