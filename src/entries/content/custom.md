@@ -82,7 +82,7 @@ Certificates
 
 * [Member of China Computer Federation](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/awards/艾孜尔江中国计算机学会会员证书.jpg);
 * [Member of China Society of Image and Graphics](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/awards/艾孜尔江中国图形学学会会员证书.jpg);
-* [Member of China Association of Children's Science Instructors](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/awards/艾孜尔江-中国青少年科技辅导员协会电子会员证.jpg);
+* [Member of China Association of Children's Science Instructors](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/awards/艾孜尔江-中国青少年科技辅导员协会电子会员证.png);
 * [Member of Translators Association of China](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/awards/艾孜尔江-中国翻译协会会员证.jpg);
 * [National Junior Translator (CATTI)](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/awards/国家三级笔译员_艾孜尔江-min.jpg);
 * [CET6 (written test score:536, oral test score: A)](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/awards/大学英语六级成绩证明_艾孜尔江-min.jpg);
