@@ -48,7 +48,7 @@
 4. **Open the address shown on console board in the Firefox browser and save the content using the Firefox plugin called `SingleFile`;**
 5. Copy the images in `assets` folder;
 6. `npm run build` to build out the fruits into the dist folder, but this `dist` folder is not going to be the last deployable folder we are to put on our public server, just keep this 'dist' folder as a backup;
-7. `lua53 gitPusher.lua` to push the master branch onto the online repository;
+7. `lua gitPusher.lua` to push the master branch to the online repository;
 8. `git checkout built` to go to the branch named `built` which we deploy on our public server(eg: Github Pages);
 9.  Place the HTML file created by `SingleFile` plugin in the root folder of branch `built`;
 10. Rename and open the file created by Firefox SingleFile plugin then revise the line of `Print Button` to the code below:
