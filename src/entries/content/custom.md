@@ -31,13 +31,13 @@ Academic Achievements
 ---
 ---
 * [<PATENT>Online Live Broadcasting System Based On 3D Scenes(First Author)(基于三维场景的在线视频直播系统<专利>)](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=SCPD&dbname=SCPD202102&filename=CN113382305A&uniplatform=NZKPT&v=h8Rtgte5nZtON59qvje7enPr1Aqe9neuwEZdUftPonwLSDII0PYa_-W4fv_gUfY5)
-* [PolSearch(First Author)("聚合搜"多元聚合搜索工具软件-软件著作权)](https://github.com/Ezharjan/SearchEngines/tree/master/PolSearch2.0)
-* [Study Healthily(First Author)("自习宝"安卓应用软件-软件著作权)](https://github.com/Ezharjan/StudyWithMe)
+* [PolSearch(First Author)("聚合搜"多元聚合搜索工具软件-软件著作权)](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/awards/聚合搜-软著-荣誉证书-min.jpg)
+* [Study Healthily(First Author)("自习宝"安卓应用软件-软件著作权)](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/awards/自习宝-软著-荣誉证书-min.jpg)
 * [Fun Bag(First Author)("趣袋"环保取袋系统-软件著作权)](https://github.com/Ezharjan/FunBag)
-* [LuBan Lock(First Author)("鲁班锁"教学演示应用软件-软件著作权)](https://github.com/Ezharjan/LuBanLock)
+* [LuBan Lock(First Author)("鲁班锁"教学演示应用软件-软件著作权)](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/awards/软件著作权-鲁班锁.jpg)
 * [Render Engine(First Author)(渲染器教学演示应用软件-软件著作权)](https://github.com/Ezharjan/RenderEngine)
 * [Image Processor(First Author)(跨平台图片处理工具软件-软件著作权)](https://github.com/Ezharjan/RenderEngine)
-* [Multi-language Text Editor(First Author)(跨平台文本编辑软件-软件著作权)](https://gitee.com/ezharjan/pad)
+* [Multi-language Text Editor(First Author)(跨平台文本编辑软件-软件著作权)](https://github.com/ezharjan/pad)
 _Others are on the way_ ...
 
 
@@ -61,12 +61,12 @@ Ohter Experience
 - I developed an Android application called ["Study Healthily"](https://github.com/Ezharjan/StudyWithMe.git)© using Java.
 - I hosted the [full stack project "Fun Bag"](https://github.com/Ezharjan/FunBag.git)©, which is a bag taking system for supermarkets.
 - During the summer vacation of 2019, I took part in the _National College Creative Star Exploration program_ to study the game developing basics and developed the game called ["Wan Li Tong Feng"](https://www.bilibili.com/video/BV11t411M7ak?share_source=copy_web), [source code](https://github.com/Ezharjan/WanLiTongFengScripts.git) is now open on Github.
-- My First online multiplayer game ["Attacker"](https://gitee.com/ezharjan/MyTeamGame) was made during the summer vacation of 2019.
+- My First online multiplayer game ["Attacker"](https://github.com/ezharjan/MyTeamGame) was made during the summer vacation of 2019.
 - Participated in the development of ["Wild Assistant"](https://github.com/WildHelper/MiniProgram.git), a Wechat mini-app for students to check their exam results in school.
-- Based on electron framework, [a simple 2D game engine is made](https://gitee.com/ezharjan/MyTeamGame). [A game](https://ezharjan.gitee.io/myteamgame) similar to _Magic Tower_ is developed through [my own game engine](https://www.bilibili.com/video/BV16K411H753?share_source=copy_web).
+- Based on electron framework, [a simple 2D game engine is made](https://github.com/ezharjan/MyTeamGame). [A game](https://ezharjan.gitee.io/myteamgame) similar to _Magic Tower_ is developed through [my own game engine](https://www.bilibili.com/video/BV16K411H753?share_source=copy_web).
 - As a training lecturer, I participated in the [C language tutoring](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/awards/国际学院C语言辅导记录照片.jpg) for the Dublin International College for one semester.
 - Took part in a [volunteer work as a peer lecturer on C/C++](https://www.bilibili.com/video/BV1jE411D7S5/).
-- On June 17, 2021, the graduation project entitled "Design and Implementation of Live Video System Based on Unity 3D" was awarded as the [Excellent Graduation Project of Beijing University of Technology](https://gitee.com/ezharjan/live-receiver) and was included in the excellent thesis selection.
+- On June 17, 2021, the graduation project entitled "Design and Implementation of Live Video System Based on Unity 3D" was awarded as the [Excellent Graduation Project of Beijing University of Technology](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/awards/优秀毕业论文证书扫描件.jpg) and was included in the excellent thesis selection.
 - [A number of micro films](https://www.cnblogs.com/ezhar/p/14259440.html) were written, directed and performed in high school have won many national awards ([Rawap With Broken String](https://v.qq.com/x/page/v07763zvo0a.html), [Priceless Youth](https://www.bilibili.com/video/BV1fE411o7z2?share_source=copy_web), [The Way Home](https://www.bilibili.com/video/BV1fE411o7z2?share_source=copy_web), [Once Upon a Time in Kashgar during My Summer Vacation](https://v.qq.com/x/page/u0772ucsspi.html), Looking For Kavser, etc.).
 - One of my micro film ([Rawap With Broken String](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/awards/《阳光心弦》证书.jpg)) was publicly revealed on XJTV.
 - I was also awarded [the first prize of Campus TV Host Competition](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/awards/全国主持人大赛一等奖奖杯.jpg) when I was in senior high school.
@@ -107,7 +107,7 @@ Interests
 ---
 ---
 * Exercising
-* [Programming](https://gitee.com/softwarelab)
+* [Programming](https://github.com/ezharjan)
 * [Computer Graphics](https://www.bilibili.com/video/BV1jE411D7S5/)
 * [Reading & Writing & Lecturing](https://www.bilibili.com/video/BV1zE411F7m3/?spm_id_from=333.788.recommend_more_video.2)
 * [Film making](https://space.bilibili.com/474084000?spm_id_from=333.788.0.0)
