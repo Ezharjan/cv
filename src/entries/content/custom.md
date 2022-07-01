@@ -55,7 +55,7 @@ Ohter Experience
 ---
 ---
 
-- I established the [Flash Cultural Online Studio](https://space.bilibili.com/474084000) of University of Technology (channels are including OpenGL introduction, software tutorials and a program called _[Reading and Sharing](https://github.com/Ezharjan/WanLiTongFengScripts.git)_).
+- I established the Flash Cultural Online Studio of University of Technology (channels are including OpenGL introduction, software tutorials and a program called _[Reading and Sharing](https://www.bilibili.com/video/BV1zE411F7m3?share_source=copy_web)_).
 - I developed a soft renderer without using any libraries except Windows.h, and the ["Render Engine"](https://github.com/Ezharjan/RenderEngine.git)© is now open source online.
 - I developed web application for image processing, the ["Online Image Processor"](https://github.com/Ezharjan/OnlineImgCopressor.git)© is open source and [usable online](https://ezharjan.github.io/OnlineImgCopressor).
 - I developed an Android application called ["Study Healthily"](https://github.com/Ezharjan/StudyWithMe.git)© using Java.
@@ -96,7 +96,7 @@ Certificates
 School Performance
 ---
 ---
-During the study in Beijing University of Technology(where I got my bachelorship), the total weighted score was **91.04**, **with GPA of 3.81**, ranking first in the major.
+During the study in Beijing University of Technology(where I got my bachelorship), the total weighted score was **91.04**, **with GPA of 3.84**, ranking first in the major.
 
 
 <br>
@@ -109,8 +109,8 @@ Interests
 * Exercising
 * [Programming](https://github.com/ezharjan)
 * [Computer Graphics](https://www.bilibili.com/video/BV1jE411D7S5/)
-* [Reading & Writing & Lecturing](https://www.bilibili.com/video/BV1zE411F7m3/?spm_id_from=333.788.recommend_more_video.2)
-* [Film making](https://space.bilibili.com/474084000?spm_id_from=333.788.0.0)
+* [Reading & Writing & Lecturing](https://space.bilibili.com/474084000?spm_id_from=333.788.0.0)
+* [Film making](https://www.bilibili.com/video/BV1yi4y1L7uJ?share_source=copy_web)
 
 
 

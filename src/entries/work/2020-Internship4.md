@@ -1,6 +1,6 @@
 ---
 title: Assistant Game Engine Developer
-organization: Archosuar Games
+organization: Archosuar Games (Huaian Zulong Technology Co., Ltd. Beijing Branch)
 organizationUrl: https://www.zulong.com
 location: Beijing, CHN
 start: 2020-11-03
