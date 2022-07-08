@@ -1,7 +1,7 @@
 ---
 title: Assistant Game Engine Developer
 organization: Archosuar Games (Huaian Zulong Technology Co., Ltd. Beijing Branch)
-organizationUrl: https://www.zulong.com
+organizationUrl: https://www.mmgame.com
 location: Beijing, CHN
 start: 2020-11-03
 end: 2021-06-31
