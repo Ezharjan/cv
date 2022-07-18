@@ -38,6 +38,12 @@ Academic Achievements
 * [Render Engine(First Author)(渲染器教学演示应用软件-软件著作权)](https://github.com/Ezharjan/RenderEngine)
 * [Image Processor(First Author)(跨平台图片处理工具软件-软件著作权)](https://github.com/Ezharjan/RenderEngine)
 * [Multi-language Text Editor(First Author)(跨平台文本编辑软件-软件著作权)](https://github.com/ezharjan/pad)
+* Sharable Board Online(First Author)(共享白板平台-软件著作权)
+* TODO List Web Application(First Author)(TODO清单软件-软件著作权)
+* Cross-platform File Encryption Tool(First Author)(跨平台文件加密软件-软件著作权)
+* Horse Race Lamp Web Application(First Author)(跑马灯应用软件-软件著作权)
+* Digital Image Processing Educational Web Application(First Author)(数字图像处理教学软件-软件著作权)
+* Ezharjan Group Chat System(First Author)(小江群聊系统-软件著作权)
 _Others are on the way_ ...
 
 
@@ -55,6 +61,7 @@ Ohter Experience
 ---
 ---
 
+- I published an [npm package named `cryptee`](https://www.npmjs.com/package/cryptee) which can be installed globally via `npm install -g cryptee` to meet the need of making encryption and decryption of files automatically directly through command line.
 - I established the Flash Cultural Online Studio of University of Technology (channels are including OpenGL introduction, software tutorials and a program called _[Reading and Sharing](https://www.bilibili.com/video/BV1zE411F7m3?share_source=copy_web)_).
 - I developed a soft renderer without using any libraries except Windows.h, and the ["Render Engine"](https://github.com/Ezharjan/RenderEngine.git)© is now open source online.
 - I developed web application for image processing, the ["Online Image Processor"](https://github.com/Ezharjan/OnlineImgCopressor.git)© is open source and [usable online](https://ezharjan.github.io/OnlineImgCopressor).
@@ -80,7 +87,8 @@ Certificates
 ---
 ---
 
-* [Member of China Computer Federation](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/awards/艾孜尔江中国计算机学会会员证书.jpg);
+* [Member of China Computer Federation (CCF)](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/awards/艾孜尔江中国计算机学会会员证书.jpg);
+* [Member of The Chinese Institute of Electronics (CIE)](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/awards/中国电子学会会员证.png);
 * [Member of China Society of Image and Graphics](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/awards/艾孜尔江中国图形学学会会员证书.jpg);
 * [Member of China Association of Children's Science Instructors](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/awards/艾孜尔江-中国青少年科技辅导员协会电子会员证.png);
 * [Member of Translators Association of China](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/awards/艾孜尔江-中国翻译协会会员证.jpg);
