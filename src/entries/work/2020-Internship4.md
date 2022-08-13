@@ -8,11 +8,11 @@ end: 2021-06-31
 ---
 
 
-·	Using native C + + (without using the third-party library) to complete the development of CPU based soft rasterization render. The product has a relatively complete mathematical library related to computer graphics, and it mainly supports the import and rendering of obj model with BMP map, the setting of light, the generation of shadow, the rendering of shadow map and other functions for the objects in the guide scene through keyboard or mouse interaction.
+·	Using native C + + (without using the third-party library) to complete the development of a CPU based render engine with a relatively systematic mathematical library related to computer graphics. The render engine supports the rendering of obj models with BMP maps, the setting of light, the generation of shadow, the rendering of shadow map and other functions for the objects in the scene through keyboard or mouse interaction.
 
 <br>
 
-·	Participated in the client-side development of the game named Project I, and completed the development of the interface functions, as well as other UI related functions like functions of edition answering activity, account switching, card presentation, etc.
+·	Participated in the client-side development of the game named Project I, and completed the development of the interface functions, as well as other UI related functions such as functions of edition answering activity, account switching, card presentation, etc.
 
 
 
