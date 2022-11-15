@@ -27,7 +27,7 @@ _etc._
 <br>
 <br>
 
-Academic Achievements
+Achievements
 ---
 ---
 * [<PATENT>Online Live Broadcasting System Based On 3D Scenes(First Author)(基于三维场景的在线视频直播系统<专利>)](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=SCPD&dbname=SCPD202102&filename=CN113382305A&uniplatform=NZKPT&v=h8Rtgte5nZtON59qvje7enPr1Aqe9neuwEZdUftPonwLSDII0PYa_-W4fv_gUfY5)
