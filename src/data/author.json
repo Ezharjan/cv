@@ -42,12 +42,12 @@
             "level": "fluent"
         },
         {
-            "name": "Kirghiz",
+            "name": "Kazakh",
             "level": "basic"
         },
         {
-            "name": "Kazakh",
-            "level": "basic"
+            "name": "Kirghiz",
+            "level": "primary"
         }
     ],
     "social": [
