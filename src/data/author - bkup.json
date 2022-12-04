@@ -5,27 +5,50 @@
     "avatar": "avatar.jpg",
     "pronouns": "",
     "email": "mysoft@111.com",
+    "telephone": "N/A",
     "website": "http://ezharjan.github.io/Blog",
     "skills": [
-        "Vue.js",
+        "C/C++",
+        "Lua",
+        "C#",
+        "PHP",
+        "Java",
+        "Node.js",
+        "Python 3",
         "Unity 3D",
+        "Typescript",
         "Unreal Engine 4",
+        "Javascript(ES6)/Vue",
         "MySQL/Redis/MongoDB",
         "Basic 3D Models Modeling",
         "Advanced UI & Layout Designing",
-        "Advanced film cutting and effecting",
-        "Film scripting, directing and organizing"
+        "Advanced film cutting and effecting"
     ],
     "languages": [
-        "C#",
-        "Lua",
-        "PHP",
-        "Java",
-        "C/C++",
-        "Node.js",
-        "Python 3",
-        "Typescript",
-        "Javascript(ES6)"
+        {
+            "name": "Mandarin",
+            "level": "native"
+        },
+        {
+            "name": "Uyghur",
+            "level": "native"
+        },
+        {
+            "name": "English",
+            "level": "native"
+        },
+        {
+            "name": "Uzbek",
+            "level": "fluent"
+        },
+        {
+            "name": "Kazakh",
+            "level": "basic"
+        },
+        {
+            "name": "Kirghiz",
+            "level": "primary"
+        }
     ],
     "social": [
         {

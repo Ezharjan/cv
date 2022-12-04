@@ -39,13 +39,12 @@ Achievements
 * [Multi-language Text Editor(First Author)(跨平台文本编辑软件-软件著作权)](https://ezharjan.gitee.io/pad)
 * [Image Processor(First Author)(跨平台图片处理工具软件-软件著作权)](https://ezharjan.github.io/OnlineImgCopressor)
 * [Sharable Board Online(First Author)(共享白板平台-软件著作权)](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/awards/共享白板平台_软著证书扫描版.jpg)
-* TODO List Web Application(First Author)(TODO清单软件-软件著作权)
 * [Cross-platform File Encryption Tool(First Author)(跨平台文件加密软件-软件著作权)](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/awards/文件加密软件_软著证书扫描版.jpg)
 * [Horse Race Lamp Web Application(First Author)(跑马灯应用软件-软件著作权)](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/awards/跑马灯应用软件_软著证书扫描版.jpg)
 * [Digital Image Processing Educational Web Application(First Author)(数字图像处理教学软件-软件著作权)](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/awards/数字图像处理教学软件_软著证书扫描版.jpg)
 * [Ezharjan Group Chat System(First Author)(小江群聊系统-软件著作权)](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/awards/小江群聊系统_软著证书扫描版.jpg)
 * [Ezharjan Web Camera(First Author)(小江相机软件-软件著作权)](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/awards/小江相机软件_软著证书扫描版.jpg)
-_Others are on the way_ ...
+
 
 
 

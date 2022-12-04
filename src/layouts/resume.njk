@@ -45,12 +45,24 @@ layout: base
             <section class="section section--half" id="section-languages">
                 <h2 class="section__title">{{ strings.titles.languages }}</h2>
                 <ul class="bulletlist">
+                {% for skill in author.languages %}
+                    <li class="p-skill">{{ skill }}</li>
+                {% endfor %}
+                </ul>
+            </section>
+            {% endif %}
+            {#
+            {% if author.languages %}
+            <section class="section section--half" id="section-languages">
+                <h2 class="section__title">{{ strings.titles.languages }}</h2>
+                <ul class="bulletlist">
                 {% for language in author.languages %}
                     <li class="p-skill">{{ language.name }} ({{ language.level }})</li>
                 {% endfor %}
                 </ul>
             </section>
             {% endif %}
+            #}
         </div>
     {% endif %}
 

@@ -8,11 +8,11 @@ end: 2020-10-15
 ---
 
 
-·	Studied and implemented the live text system based on Swoole framework of PHP (supports load balancing);
+·	Studied and implemented the live text system based on Swoole framework of PHP (supports **load balancing**);
 
 <br>
 
-·	Developed a simple online news system based on Node.js + Express.js + MongoDB + Angular architecture.
+·	Developed a simple online news system based on **Node.js + Express.js + MongoDB** + Angular architecture.
 
 
 
