@@ -56,8 +56,9 @@ Achievements
 Papers
 ---
 ---
-* [Literature Review for Mixed Reality Simulation](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/papers/Literature_Review_for_Mixed_Reality_Simulation.docx)
-* [Literature Review for Object Detection in Autonomous Driving](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/papers/Literature_Review_for_Object_Detection_in_Autonomous_Driving.docx)
+* [Literature Review for Mixed Reality Simulation](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/papers/Literature_Review_for_Mixed_Reality_Simulation.pdf)
+* [Literature Review for Object Detection in Autonomous Driving](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/papers/Literature_Review_for_Object_Detection_in_Autonomous_Driving.pdf)
+* [ On the Causes and Development of Network Violence (浅谈网络暴力的成因及其发展)](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/papers/浅谈网络暴力的成因及其发展.pdf)
 
 
 
@@ -69,7 +70,7 @@ Papers
 
 
 
-Ohter Experience
+Other Experience
 ---
 ---
 
