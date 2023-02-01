@@ -24,6 +24,7 @@ title: Awards
 * [Star of Self Improvement of Beijing University of Technology in 2019](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/awards/自强之星获奖证书-min.jpg)
 _etc._
 
+
 <br>
 <br>
 
@@ -46,6 +47,17 @@ Achievements
 * [Ezharjan Web Camera(First Author)(小江相机软件-软件著作权)](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/awards/小江相机软件_软著证书扫描版.jpg)
 
 
+
+
+
+<br>
+<br>
+
+Papers
+---
+---
+* [Literature Review for Mixed Reality Simulation](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/papers/Literature_Review_for_Mixed_Reality_Simulation.docx)
+* [Literature Review for Object Detection in Autonomous Driving](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/papers/Literature_Review_for_Object_Detection_in_Autonomous_Driving.docx)
 
 
 
