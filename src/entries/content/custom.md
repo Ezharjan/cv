@@ -6,7 +6,7 @@ title: Awards
 
 
 * [National Scholarship](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/awards/国家奖学金获奖证书-min.jpg)
-* [Inspirational Figures of the Capital in 2020](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/awards/首都校园励志人物-min.jpg)
+* [Inspirational Figures of the Capital in 2020](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/awards/首都校园励志人物-min.jpg) ; [See source(1)](https://www.163.com/dy/article/FMJLIGNH0516DLL3.html), [Source(2)](https://www.sohu.com/a/418376621_100908) 
 * [National Encouragement Scholarship (Twice)](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/awards/2018-2019国家励志奖学金-min.jpg)
 * [Presidential Scholarship of Beijing University of Technology](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/awards/校长奖学金扫描版-min.jpg) 
 * [First prize of National College Digital Media Technology Works and Creativity Competition (Twice)](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/awards/全国大学生数字媒体科技作品大赛一等奖_艾孜尔江-min.jpg)
