@@ -60,11 +60,22 @@ module.exports = function (config) {
                 }
                 return 0
             }
+            const byPriority = (a, b) => {
+                const priorityA = a.data.priority || 0;
+                const priorityB = b.data.priority || 0;
+                if (priorityA !== priorityB) {
+                    console.log("Priority")
+                    return priorityA - priorityB;
+                } else {
+                    return byStartDate(a, b);
+                }
+            }
 
             return collection
                 .getAllSorted()
                 .filter(inEntryFolder)
-                .sort(byStartDate)
+                // .sort(byStartDate)
+                .sort(byPriority)
         })
     })
 

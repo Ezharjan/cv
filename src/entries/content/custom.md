@@ -49,16 +49,15 @@ Achievements
 
 
 
-
+<!-- 
 <br>
 <br>
 
 Papers
 ---
 ---
-* [Literature Review for Mixed Reality Simulation](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/papers/Literature_Review_for_Mixed_Reality_Simulation.pdf)
-* [Literature Review for Object Detection in Autonomous Driving](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/papers/Literature_Review_for_Object_Detection_in_Autonomous_Driving.pdf)
-* [ On the Causes and Development of Network Violence (浅谈网络暴力的成因及其发展)](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/papers/浅谈网络暴力的成因及其发展.pdf)
+
+* [ On the Causes and Development of Network Violence (浅谈网络暴力的成因及其发展)](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/papers/浅谈网络暴力的成因及其发展.pdf) -->
 
 
 
@@ -96,8 +95,8 @@ Certificates
 ---
 ---
 
-* [Member of China Computer Federation (CCF)](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/awards/艾孜尔江中国计算机学会会员证书.jpg);
-* [Member of The Chinese Institute of Electronics (CIE)](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/awards/中国电子学会会员证.png);
+* [Member of China Computer Federation](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/awards/艾孜尔江中国计算机学会会员证书.jpg);
+* [Member of The Chinese Institute of Electronics](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/awards/中国电子学会会员证.png);
 * [Member of China Society of Image and Graphics](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/awards/艾孜尔江中国图形学学会会员证书.jpg);
 * [Member of China Association of Children's Science Instructors](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/awards/艾孜尔江-中国青少年科技辅导员协会电子会员证.png);
 * [Member of Translators Association of China](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/awards/艾孜尔江-中国翻译协会会员证.jpg);
@@ -113,8 +112,11 @@ Certificates
 School Performance
 ---
 ---
-During the study in Beijing University of Technology(where I got my bachelorship), the total weighted score was **91.04**, **with GPA of 3.84**, ranking first in the major.
-
+<!-- During the study in Beijing University of Technology(where I got my bachelorship of engineering), the total weighted score was **91.04**, **with GPA of 3.84**, ranking first in the major.
+During the study in Beijing University of Technology(where I got my bachelorship of sociology), the total weighted score was **83.83**, **with GPA of 3.59**.
+During my studies at the University of Macau (where I am pursuing my master's degree in computer science), my GPA is **3.76**. -->
+During my Bachelor of Engineering in **Digital Media Technology** program at Beijing University of Technology (BJUT), I achieved a total weighted score of **91.04** with a GPA of **3.84**, **ranking first** in my major. During my Bachelor of Law in **Sociology** program at BJUT, my total weighted score was **83.83** with a GPA of **3.59**.
+During my studies at the University of Macau (where I am pursuing my master's degree in **Computer Science**), my GPA is **3.76**.
 
 <br>
 <br>
@@ -124,10 +126,10 @@ Interests
 ---
 ---
 * Exercising
+* [Film making](https://www.bilibili.com/video/BV1yi4y1L7uJ?share_source=copy_web)
 * [Programming](https://github.com/ezharjan)
 * [Computer Graphics](https://softwarelab.gitee.io/2022/03/18/CG-In-Practice/)
 * [Reading & Writing & Lecturing](https://space.bilibili.com/474084000?spm_id_from=333.788.0.0)
-* [Film making](https://www.bilibili.com/video/BV1yi4y1L7uJ?share_source=copy_web)
 <!-- * [Computer Graphics](https://www.bilibili.com/video/BV1jE411D7S5/) -->
 
 

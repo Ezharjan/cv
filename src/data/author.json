@@ -7,22 +7,19 @@
     "email": "mysoft@111.com",
     "website": "http://ezharjan.github.io/Blog",
     "skills": [
-        "Vue.js",
         "Unity 3D",
-        "Unreal Engine 4",
+        "Unreal Engine",
+        "Photographing",
         "MySQL/Redis/MongoDB",
-        "Basic 3D Models Modeling",
-        "Advanced UI & Layout Designing",
+        "Magazine Cover Designing",
         "Advanced film cutting and effecting",
         "Film scripting, directing and organizing"
     ],
     "languages": [
         "C#",
         "Lua",
-        "PHP",
         "Java",
         "C/C++",
-        "Node.js",
         "Python 3",
         "Typescript",
         "Javascript(ES6)"

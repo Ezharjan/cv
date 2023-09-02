@@ -3,4 +3,4 @@ tags: introduction
 title: About Me
 ---
 
-I’m a software engineer with 5 years of experience _(among which contains a 4-year on-campus study and a 1-year full-time work experience)_ in the field of software and a special background in game engine development. My focus was on enhancing the performance of render engines as well as creating convenient tools and APIs for game developers. My past work included the direct engagement in game development as a Game Developer & Game Engine Developer.
+Currently, I'm researching autonomous driving and the implementation of AI-based content generation tools for testing autonomous driving systems. I was a software engineer with 5 years of experience, which included a 4-year on-campus study and 1 year of full-time work experience in the field of software, with a special background in game engine development. My primary focus was on enhancing the performance of rendering engines and creating convenient tools and APIs for game developers. My previous roles involved direct engagement in game development as a Game Engine Developer.

@@ -40,7 +40,7 @@
 <br>
 <br>
 
-### Brief
+### Brief Tutorial
 
 1. `git checkout master` to move to the master's branch for development;
 2. Revise the contents of your resume;
@@ -68,6 +68,31 @@
 <br>
 <br>
 <br>
+
+
+### Known Issues
+If you encounter the problem of error output on building the CV, please check your Node.js version if it is `node-v16.17.0-x64` or not. This CV is built via `node-v16.17.0-x64`.
+
+
+
+### More Briefs
+
+1. `git checkout master` to move to the master's branch for development;
+2. Revise the contents of your resume;
+3. `npm run start` to see the changes in the browser, make sure there are no errors;
+4. Open the address shown on console board in the Firefox browser and save the content using the Firefox plugin called `SingleFile`;
+5. Copy the images in `assets` folder;
+6. `lua gitPusher.lua` to push the master branch to the online repository;
+7. `git checkout built` to go to the branch named `built` which we deploy on our public server(eg: Github Pages);
+8.  Place the HTML file created by `SingleFile` plugin in the root folder of branch `built`;
+9.  Rename and open the file created by Firefox SingleFile plugin then revise the line of `Print Button` to the code below:
+```html
+<button class="actions__btn js-print utl-screen-only has-tooltip" aria-label="Print Résumé" onclick="print()">
+```
+10.  In branch `built`, use `lua gitPusher.lua` to push the built branch onto the online repository.
+
+
+
 
 <p align="right">Alexander Ezharjan</p>
 <p align="right">30th April, 2022</p>
