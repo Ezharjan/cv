@@ -115,7 +115,7 @@ School Performance
 <!-- During the study in Beijing University of Technology(where I got my bachelorship of engineering), the total weighted score was **91.04**, **with GPA of 3.84**, ranking first in the major.
 During the study in Beijing University of Technology(where I got my bachelorship of sociology), the total weighted score was **83.83**, **with GPA of 3.59**.
 During my studies at the University of Macau (where I am pursuing my master's degree in computer science), my GPA is **3.76**. -->
-During my Bachelor of Engineering in **Digital Media Technology** program at Beijing University of Technology (BJUT), I achieved a total weighted score of **91.04** with a GPA of **3.84**, **ranking first** in my major. During my Bachelor of Law in **Sociology** program at BJUT, my total weighted score was **83.83** with a GPA of **3.59**.
+During my Bachelor of Engineering in **Digital Media Technology** program at Beijing University of Technology (BJUT), I achieved a total weighted score of **91.04** with a GPA of **3.84**, **ranking first** in my major. During my Bachelor of Law in **Sociology** program at BJUT, my total weighted score is **83.83** with a GPA of **3.59**.
 During my studies at the University of Macau (where I am pursuing my master's degree in **Computer Science**), my GPA is **3.76**.
 
 <br>
