@@ -9,7 +9,8 @@
     "labels": {
         "email": "Email",
         "telephone": "Telephone",
-        "print": "Print Résumé",
+        "print": "Print Page",
+        "resume": "IOTSC Résumé",
         "present": "Present",
         "lastUpdated": "Last updated"
     }
