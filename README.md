@@ -1,7 +1,3 @@
-# My Resume
-[This](https://ezharjan.github.io/cv) is my resume.
-
-
 ### Tutorial
 
 1. Based on `Node v16.14.0`;
