@@ -124,11 +124,10 @@ Interests
 ---
 ---
 * Exercising
+* Sociology
 * [Film making](https://www.bilibili.com/video/BV1yi4y1L7uJ?share_source=copy_web)
 * [Programming](https://github.com/ezharjan)
-* [Computer Graphics](https://softwarelab.gitee.io/2022/03/18/CG-In-Practice/)
 * [Reading & Writing & Lecturing](https://space.bilibili.com/474084000?spm_id_from=333.788.0.0)
-<!-- * [Computer Graphics](https://www.bilibili.com/video/BV1jE411D7S5/) -->
 
 
 
