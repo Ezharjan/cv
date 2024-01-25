@@ -1,6 +1,6 @@
 ---
 tags: custom
-title: Awards
+title: Accolades
 ---
 
 
@@ -49,7 +49,7 @@ Achievements
 
 
 
-<!-- 
+
 <br>
 <br>
 
@@ -57,7 +57,10 @@ Papers
 ---
 ---
 
-* [ On the Causes and Development of Network Violence (浅谈网络暴力的成因及其发展)](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/papers/浅谈网络暴力的成因及其发展.pdf) -->
+* **Aizierjiang Aiersilan**. (2023). [Literature Review of Mixed Reality Research](https://arxiv.org/abs/2312.02995). In 2023 2nd International Conference on Educational Science and Social Culture. Presented at Tianjin.
+* Liang, Zijun, Yifeng Yuan, **Aizierjiang Aiersilan**, Fangfang Shan, Yufei Li, and Guanpeng Su. "[Comprehensive Seq2Seq Attention Model for Typhoon Trajectory Forecasting.](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10235339)" In 2023 4th International Conference on Information Science, Parallel and Distributed Systems (ISPDS), pp. 330-333. IEEE, 2023.
+* Yi Yu, **Aizierjiang Aiersilan**, Junzhao Dai, et al. "[Research on Evaluation Model of Growth of Small and Medium-sized Enterprises Based on GBRT Algorithm.(基于GBRT算法的中小企业成长性评价模型研究)](http://www.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2023&filename=QYGG202316001&uniplatform=OVERSEA&v=nvVzspM5yqzOP7mvGxunsHGRrWUBEv_ePZckc_LaWyopyreAMIcRcRPcgzTHjXkA)" [Enterprise Reform and Management (企业改革与管理)](http://www.cnki.net/KNavi/JournalDetail?pcode=CJFD&pykm=QYGG) (Enterprise Reform and Management), no. 16 (2023): 3-5. DOI:10.13768/j.cnki.cn11-3793/f.2023.0933.
+* **Aizierjiang Aiersilan**. (2022). [On the Causes and Development of Network Violence (浅谈网络暴力的成因及其发展)](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/papers/浅谈网络暴力的成因及其发展.pdf)
 
 
 
@@ -124,7 +127,6 @@ Interests
 ---
 ---
 * Exercising
-* Sociology
 * [Film making](https://www.bilibili.com/video/BV1yi4y1L7uJ?share_source=copy_web)
 * [Programming](https://github.com/ezharjan)
 * [Reading & Writing & Lecturing](https://space.bilibili.com/474084000?spm_id_from=333.788.0.0)

@@ -1,7 +1,7 @@
 ---
 title: Intern of Software Engineering
 organization: Digital Media Technology Lab of BJUT
-organizationUrl: https://www.bjut.edu.cn
+organizationUrl: https://xxxb.bjut.edu.cn/
 location: Beijing, CHN
 start: 2020-07-15
 end: 2020-10-15

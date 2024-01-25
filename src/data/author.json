@@ -1,15 +1,17 @@
 {
     "name": "Alexander Ezharjan",
+    "pronouns": "ئەز ھەر جان",
     "avatar": "avatar.jpg",
+    "occupation": "ID name: Aizierjiang Aiersilan",
     "email": "mysoft@111.com",
     "skills": [
+        "ROS 2",
         "Unity 3D",
         "Unreal Engine",
-        "Photographing",
+        "CARLA Simulator",
         "MySQL/Redis/MongoDB",
         "Magazine Cover Designing",
-        "Advanced film cutting and effecting",
-        "Film scripting, directing and organizing"
+        "Film scripting, directing and editing"
     ],
     "languages": [
         "C#",
