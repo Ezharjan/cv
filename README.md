@@ -1,91 +1,55 @@
-### Tutorial
+### Environment
 
-1. Based on `Node v16.14.0`;
-2. Change the branch to the `master`s;
-3. `git checkout master` to move to the master's branch for development;
-4. `npm i` to install all the dependencies;
-5. If you don't have the stable network environment, the `node_modules` is available [online](xxx).
-6. You can directly place the `node_modules` from branch `libs` and no need to `npm install` at all.
-7. Revise the contents of the resume as you wish in source folder;
-8. Be sure to reference the contents in the source files and place the images into the correct folders so that you are able view them later online;
-9. `npm run start` to see the changes in the browser, make sure there are no errors;
-10. Open the address shown on console board in the Firefox browser and save the content using the Firefox plugin called `SingleFile`;
-11. `npm run build` to build out the fruits into the dist folder, but this `dist` folder is not going to be the last deployable folder we are to put on our public server, just keep this 'dist' folder as a backup;
-12. `git checkout built` to go to the branch named `built` which we deploy on our public server(eg: Github Pages);
-13. Place the HTML file created by `SingleFile` plugin in the root folder of branch `built`;
-14. Rename and open the file created by Firefox SingleFile plugin then revise the line of `Print Button` to the code below:
-```html
-<button class="actions__btn js-print utl-screen-only has-tooltip" aria-label="Print Résumé" onclick="print()">
+1. [Node v16.14.0](https://nodejs.org/en/blog/release/v16.14.0)
+2. [Lua 5.3](https://luabinaries.sourceforge.net/download.html)
+
+
+### Install
+1. Run the following commands to install adn run:
+```bash
+sudo npm i
+npm run start
 ```
-15. **Note:** Make sure that the images you placed in `assets folder` is also placed into the assets folder of branch 'built', if not, copy them into it; 
-16. \---------------Use Lua5.3 To Run gitPusher.lua On Both Branches---------------
-17. `git add .` to add all of the files;
-18. `git commit -m 'update'` to commit the changes
-19. `git push -u origin master` to push the master's change onto the Github;
-20. `git push -u origin built` to push the built's change onto the Github(use gitPusher.lua to automatically push the codes if the network is unstable);
-21. Open the Github page to view the result;
-22. `git push -u originGitee master` to push the master's change onto the Gitee;
-23. `git push -u originGitee built` to push the master's change onto the Gitee;
-24. \------------------------------------------------------------------------------
-25. Manually click `force update` on Gitee Pages Services to deploy the latest version of your resume;
-26. Open the Gitee page to view the result.
-27. Note that the `dist` folder created in this project is not deployable on Gitee pages or Github pages due to some path issues, so use single file instead.
 
 
-<br>
-<br>
-<br>
-
-### Brief Tutorial
+### Process
 
 1. `git checkout master` to move to the master's branch for development;
-2. Revise the contents of your resume;
+2. Revise the contents (Set your images path correctly according to the examples given);
 3. `npm run start` to see the changes in the browser, make sure there are no errors;
-4. **Open the address shown on console board in the Firefox browser and save the content using the Firefox plugin called `SingleFile`;**
-5. Copy the images in `assets` folder;
-6. `npm run build` to build out the fruits into the dist folder, but this `dist` folder is not going to be the last deployable folder we are to put on our public server, just keep this 'dist' folder as a backup;
-7. `lua gitPusher.lua` to push the master branch to the online repository;
-8. `git checkout built` to go to the branch named `built` which we deploy on our public server(eg: Github Pages);
-9.  Place the HTML file created by `SingleFile` plugin in the root folder of branch `built`;
-10. Rename and open the file created by Firefox SingleFile plugin then revise the line of `Print Button` to the code below:
-```html
-<button class="actions__btn js-print utl-screen-only has-tooltip" aria-label="Print Résumé" onclick="print()">
-```
-11. **Note:** Make sure that the images you placed in `assets folder` is also placed into the assets folder of branch 'built', if not, copy them into the folder; 
-12. `lua53 gitPusher.lua` to push the built branch onto the online repository;
-13. Manually click `force update` on Gitee Pages Services to deploy the latest version of your resume;
-14. Open the Gitee page to view the result.
-
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
-### Known Issues
-If you encounter the problem of error output on building the CV, please check your Node.js version if it is `node-v16.17.0-x64` or not. This CV is built via `node-v16.17.0-x64`.
-
-
-
-### More Briefs
-
-1. `git checkout master` to move to the master's branch for development;
-2. Revise the contents of your resume;
-3. `npm run start` to see the changes in the browser, make sure there are no errors;
-4. Open the address shown on console board in the Firefox browser and save the content using the Firefox plugin called `SingleFile`;
-5. Copy the images in `assets` folder;
-6. `lua gitPusher.lua` to push the master branch to the online repository;
-7. `git checkout built` to go to the branch named `built` which we deploy on our public server(eg: Github Pages);
-8.  Place the HTML file created by `SingleFile` plugin in the root folder of branch `built`;
-9.  Rename and open the file created by Firefox SingleFile plugin then revise the line of `Print Button` to the code below:
+4. Open [localhost](http://127.0.0.1:8080) in the Firefox browser and save the content using the Firefox plugin called `SingleFile`;
+5. `lua gitPusher.lua` to push the master branch to remote repository;
+6. `git checkout built` to change to branch `built` which we deploy on our public server;
+7. Place your new images to `assets` folder;
+8. Place the HTML file created by `SingleFile` plugin in the root folder of branch `built`;
+9.  Rename the saved file to `index.html` and open it, revise the line of `Print Button` to the code below:
 ```html
 <button class="actions__btn js-print utl-screen-only has-tooltip" aria-label="Print Résumé" onclick="print()">
 ```
 10.  In branch `built`, use `lua gitPusher.lua` to push the built branch onto the online repository.
+
+
+
+
+<br>
+<br>
+
+### Known Issues
+
+1. If you encounter the problem of error output on building the CV, please check your Node.js version if it is `node-v16.17.0-x64` or not. This CV is built via `node-v16.17.0-x64`. It's available [here](https://github.com/Ezharjan/cv/tree/master/env-tools).
+2. If you don't have the stable network environment, the `node_modules` is available [here](https://github.com/Ezharjan/cv/tree/master/env-tools/node_modules-bkup).
+
+
+
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 
 
 
