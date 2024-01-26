@@ -3,9 +3,6 @@ cv-works
 
 node_modules
 dist
-dist/
-dist/*
-/dist/
 .env
 .cache
 .cache/
