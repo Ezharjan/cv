@@ -1,18 +1,16 @@
 ---
 title: Assistant Game Engine Developer
-organization: Archosuar Games (Huaian Zulong Technology Co., Ltd. Beijing Branch)
-organizationUrl: https://www.mmgame.com
+organization: Archosuar Games
+organizationUrl: https://www.zulong.com
 location: Beijing, CHN
 start: 2020-11-03
 end: 2021-06-31
 ---
 
 
-·	Using native C + + (without using the third-party library) to complete the development of **a CPU-based render engine** with a relatively systematic mathematical library related to computer graphics. The render engine supports the rendering of obj models with BMP maps, the setting of light, the generation of shadow, the rendering of shadow map and other functions for the objects in the scene through keyboard or mouse interaction.
+⦿ Developed a CPU-based [Render Engine](https://github.com/Ezharjan/RenderEngine.git) in native C++ from scratch, incorporating a comprehensive mathematical library for computer graphics. Engine features include rendering obj models with textures, lighting setup, shadow generation, and interactive scene manipulation via keyboard and mouse.
 
-<br>
-
-·	Participated in the client-side development of the game named Project I, and completed the development of some of the **interfaces**, as well as other **UI related functions** such as functions of edition answering activity, account switching, card presentation, cloth-changing arena, etc.
+⦿ Contributed to client-side development for [Life Makeover](https://mystyle.archosaur.com/), focusing on interface design and implementation. Key responsibilities included **developing interfaces**, enhancing UI functionalities for activities, account management, card presentation, and cloth-changing arena.
 
 
 

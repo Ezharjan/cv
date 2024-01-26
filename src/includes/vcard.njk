@@ -21,6 +21,19 @@
         </p> 
 
         <div class="vcard__contact p-contact">
+            {% if author.social %}
+                <div class="vcard__social">
+                    {% for social in author.social %}
+                        <a class="vcard__link" href="{{ social.url }}" aria-label="{{ social.name }}" rel="me">
+                            {%- set isSocialIcon = true -%}
+                            {%- icon social.name, isSocialIcon -%}
+                            <span class="vcard__link-text p-nickname">{{- social.user -}}</span>
+                            <span class="sr-only">on {{ social.name }}</a>
+                        </a>
+                    {% endfor %}
+                </div>
+            {% endif %} 
+
             {% if author.email %}
                 <a class="vcard__link u-email" aria-label="Email" href="mailto:{{ author.email | obfuscate | safe }}">
                     {% icon "email" %}
@@ -39,19 +52,6 @@
                     <span class="vcard__link-text">{{ author.website | stripProtocol }}</span>
                 </a>
             {% endif %}
-
-            {% if author.social %}
-                <div class="vcard__social">
-                    {% for social in author.social %}
-                        <a class="vcard__link" href="{{ social.url }}" aria-label="{{ social.name }}" rel="me">
-                            {%- set isSocialIcon = true -%}
-                            {%- icon social.name, isSocialIcon -%}
-                            <span class="vcard__link-text p-nickname">{{- social.user -}}</span>
-                            <span class="sr-only">on {{ social.name }}</a>
-                        </a>
-                    {% endfor %}
-                </div>
-            {% endif %} 
         </div>
     </div>
 </div>

@@ -8,19 +8,14 @@ end: 2020-09-07
 ---
 
 
-·	Participated in the development of XR project: Using **Unity 3D** to complete the **Android** test program of P2P video live broadcast based on TCP protocol;
+⦿ Contributed to extended reality (XR) project development by creating an **Android** test program for P2P video live broadcast using Unity 3D and TCP protocol.
 
-<br>
+⦿ Collaborated on the web development for the XR project, utilizing **Vue framework** and Bootstrap to implement login, registration, and resource management functionalities. Employed Express.js for backend development and assisted in joint debugging efforts.
 
-·	Participated in the development of the **web end** of the XR project: Using **Vue framework** and **Bootstrap** to complete the functions of login, registration, screenshot, import, upload and download of art resources, and Express.js framework to realize and complete the simple back end and joint debugging work;
+⦿ Developed **AR** functionality for the project's mobile version, implementing an online live broadcast player with Vuforia.
 
-<br>
+⦿ Identified and addressed minor vulnerabilities within the **VR** and other project components.
 
-·	Completed the development task of **AR** mobile part of the whole project, and realized a player with AR technology of online live broadcast system based on Vuforia;
-
-<br>
-
-·	Improved and repaired some small vulnerabilities in **VR** part and other parts of the project.
 
 
 

@@ -8,7 +8,7 @@ end: 2020-11-01
 ---
 
 
-·	Designed and achieved Identification System of School Personnel During the Epidemic based on **Think PHP 5** and **MySQL**.
+⦿ Developed an Identification System for School Personnel During the Epidemic using **Think PHP 5** and **MySQL**.
 
 
 

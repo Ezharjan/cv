@@ -6,7 +6,7 @@ title: Accolades
 
 
 * [National Scholarship](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/awards/国家奖学金获奖证书-min.jpg)
-* [Inspirational Figures of the Capital in 2020](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/awards/首都校园励志人物-min.jpg) ; [See source(1)](https://www.163.com/dy/article/FMJLIGNH0516DLL3.html), [Source(2)](https://www.sohu.com/a/418376621_100908) 
+* [Inspirational Figures of the Capital in 2020](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/awards/首都校园励志人物-min.jpg) ; See [source(1)](https://www.163.com/dy/article/FMJLIGNH0516DLL3.html), [Source(2)](https://www.sohu.com/a/418376621_100908) 
 * [National Encouragement Scholarship (Twice)](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/awards/2018-2019国家励志奖学金-min.jpg)
 * [Presidential Scholarship of Beijing University of Technology](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/awards/校长奖学金扫描版-min.jpg) 
 * [First prize of National College Digital Media Technology Works and Creativity Competition (Twice)](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/awards/全国大学生数字媒体科技作品大赛一等奖_艾孜尔江-min.jpg)
@@ -19,8 +19,8 @@ title: Accolades
 * [Merit Student of Beijing University of Technology (Twice)](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/awards/北京工业大学三好学生-min.jpg)
 * [Innovation and Entrepreneurship award of Beijing University of Technology (3-times)](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/awards/北京工业大学创新创业奖-min.jpg)
 * [Academic Excellence Award of Beijing University of Technology (3-times)](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/awards/北京工业大学学习优秀奖-min.jpg)
-* [Outstanding Student Leader of Faculty of Information Technology(Twice)](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/awards/校广播台资讯频道负责人任职证明_艾孜尔江-min.jpg)
-* [Outstanding Student Awards of Beijing University of Technology(Twice)](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/awards/杰出学子雏鹰计划_艾孜尔江-min.jpg)
+* [Outstanding Student Leader of Faculty of Information Technology (Twice)](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/awards/校广播台资讯频道负责人任职证明_艾孜尔江-min.jpg)
+* [Outstanding Student Awards of Beijing University of Technology (Twice)](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/awards/杰出学子雏鹰计划_艾孜尔江-min.jpg)
 * [Star of Self Improvement of Beijing University of Technology in 2019](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/awards/自强之星获奖证书-min.jpg)
 _etc._
 
@@ -33,7 +33,7 @@ Achievements
 ---
 * [<PATENT>Online Live Broadcasting System Based On 3D Scenes(First Author)(基于三维场景的在线视频直播系统<专利>)](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=SCPD&dbname=SCPD202102&filename=CN113382305A&uniplatform=NZKPT&v=h8Rtgte5nZtON59qvje7enPr1Aqe9neuwEZdUftPonwLSDII0PYa_-W4fv_gUfY5)
 * [PolSearch(First Author)("聚合搜"多元聚合搜索工具软件-软件著作权)](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/awards/聚合搜-软著-荣誉证书-min.jpg)
-* [StudyWithMe(First Author)("自习宝"安卓应用软件-软件著作权)](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/awards/自习宝-软著-荣誉证书-min.jpg)
+* [TranquilLearn(First Author)("自习宝"安卓应用软件-软件著作权)](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/awards/自习宝-软著-荣誉证书-min.jpg)
 * [Fun Bag(First Author)("趣袋"环保取袋系统-软件著作权)](https://github.com/Ezharjan/FunBag)
 * [LuBan Lock(First Author)("鲁班锁"教学演示应用软件-软件著作权)](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/awards/软件著作权-鲁班锁.jpg)
 * [Render Engine(First Author)(渲染器教学演示应用软件-软件著作权)](https://github.com/Ezharjan/RenderEngine)
@@ -57,10 +57,11 @@ Papers
 ---
 ---
 
+_Non-representative_
+
 * **Aizierjiang Aiersilan**. (2023). [Literature Review of Mixed Reality Research](https://arxiv.org/abs/2312.02995). In 2023 2nd International Conference on Educational Science and Social Culture. Presented at Tianjin.
 * Liang, Zijun, Yifeng Yuan, **Aizierjiang Aiersilan**, Fangfang Shan, Yufei Li, and Guanpeng Su. "[Comprehensive Seq2Seq Attention Model for Typhoon Trajectory Forecasting.](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10235339)" In 2023 4th International Conference on Information Science, Parallel and Distributed Systems (ISPDS), pp. 330-333. IEEE, 2023.
 * Yi Yu, **Aizierjiang Aiersilan**, Junzhao Dai, et al. "[Research on Evaluation Model of Growth of Small and Medium-sized Enterprises Based on GBRT Algorithm.(基于GBRT算法的中小企业成长性评价模型研究)](http://www.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&dbname=CJFDLAST2023&filename=QYGG202316001&uniplatform=OVERSEA&v=nvVzspM5yqzOP7mvGxunsHGRrWUBEv_ePZckc_LaWyopyreAMIcRcRPcgzTHjXkA)" [Enterprise Reform and Management (企业改革与管理)](http://www.cnki.net/KNavi/JournalDetail?pcode=CJFD&pykm=QYGG) (Enterprise Reform and Management), no. 16 (2023): 3-5. DOI:10.13768/j.cnki.cn11-3793/f.2023.0933.
-* **Aizierjiang Aiersilan**. (2022). [On the Causes and Development of Network Violence (浅谈网络暴力的成因及其发展)](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/papers/浅谈网络暴力的成因及其发展.pdf)
 
 
 
@@ -76,18 +77,19 @@ Other Experience
 ---
 ---
 
-- I published [cryptee](https://www.npmjs.com/package/cryptee) and [splitee](https://www.npmjs.com/package/splitee) on NPM and they can be installed globally via _`npm install -g (PACKAGE_NAME)`_ to meet the needs of making encryption and decryption, splitting of files automatically through the command line.
-- I established the Flash Cultural Studio (programmes included OpenGL introduction, software tutorials and _[Reading and Sharing](https://www.bilibili.com/video/BV1zE411F7m3?share_source=copy_web)_).
-- I developed **a** soft renderer called the [Render Engine](https://github.com/Ezharjan/RenderEngine.git) without using any 3rd party libraries. **A** web application called the [Online Image Processor](https://ezharjan.github.io/OnlineImgCopressor) to meet the needs of image resizing. **An** Android application called [Study With Me](https://github.com/Ezharjan/StudyWithMe/releases/tag/v1.0) using Java. etc.
-- I hosted a full stack project called the [Fun Bag](https://github.com/Ezharjan/FunBag.git), which is a bag taking system for supermarkets in aim of advocating the environmental protection.
-- I took part in the _National College Creative Star Exploration program_ to study the game developing basics and developed the game called [Wan Li Tong Feng](https://www.bilibili.com/video/BV11t411M7ak?share_source=copy_web) in 2019, [source code](https://github.com/Ezharjan/WanLiTongFengScripts.git) is now open on Github.
-- I participated in the development of [Wild Assistant](https://github.com/WildHelper/MiniProgram.git), a WeChat mini-app for students to check their exam results in school.
-- Based on the Electron framework, [a simple 2D game engine](https://github.com/ezharjan/MyTeamGame) was made. [A game](https://ezharjan.gitee.io/myteamgame) similar to the _Magic Tower_ is developed through [my own game engine](https://www.bilibili.com/video/BV16K411H753?share_source=copy_web).
-- As a training lecturer, I participated in the [C language tutoring](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/awards/国际学院C语言辅导记录照片.jpg) for the Dublin International College for one semester.
-- On June 17, 2021, the graduation project entitled Design and Implementation of Live Video System Based on Unity 3D was awarded as the [Excellent Graduation Project of Beijing University of Technology](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/awards/优秀毕业论文证书扫描件.jpg) and was included in the excellent thesis section of school.
-- [A series of self-written, self-directed and self-acted micro-films](https://www.cnblogs.com/ezhar/p/14259440.html) won various national awards([Rawap With Broken String](https://v.qq.com/x/page/v07763zvo0a.html), [Priceless Youth](https://www.bilibili.com/video/BV1fE411o7z2?share_source=copy_web), [The Way Home](https://www.bilibili.com/video/BV1fE411o7z2?share_source=copy_web), [Once Upon a Time in Kashgar](https://v.qq.com/x/page/u0772ucsspi.html), Looking For Kavser, etc.).
-- One of my micro films ([Rawap With Broken String](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/awards/《阳光心弦》证书.jpg)) was publicly revealed on XJTV.
-- I was also awarded [The First Prize of Campus TV Host Competition](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/awards/全国主持人大赛一等奖奖杯.jpg) in 2015.
+- I participated in the building of [Metaverse Platform for Autonomous Driving](https://www.um.edu.mo/zh-hant/news-and-press-releases/presss-release/detail/54725/) in the late 2022.
+- I published 2 automatic tools ([cryptee](https://www.npmjs.com/package/cryptee) and [splitee](https://www.npmjs.com/package/splitee)) developed in [Node.js](https://en.wikipedia.org/wiki/Node.js) on [NPM](https://www.npmjs.com/) in mid 2022.
+- My graduation project was awarded as the [Excellent Graduation Project of Beijing University of Technology](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/awards/优秀毕业论文证书扫描件.jpg) and was included in the excellent thesis section in mid 2021.
+- Based on the [Electron framework](https://en.wikipedia.org/wiki/Electron_(software_framework)), [a simple 2D game engine](https://github.com/ezharjan/MyTeamGame) was made. [A game](https://ezharjan.gitee.io/myteamgame) similar to the _Magic Tower_ is developed through [my own game engine](https://www.bilibili.com/video/BV16K411H753?share_source=copy_web) during summer term in 2020.
+- I [participated](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/awards/游戏开发培训会_艾孜尔江-min.jpg) in the _National College Creative Star Exploration Program_ and its workshop organized by [ISTART Digital](https://www.isart.com/) to study the _Basics of Game Development_ and [developed a game](https://github.com/Ezharjan/WanLiTongFengScripts.git) called [Wan Li Tong Feng](https://www.bilibili.com/video/BV11t411M7ak?share_source=copy_web) during summer term in 2019.
+- I **developed** a **web application** called the [Online Image Processor](https://ezharjan.github.io/OnlineImgCopressor) to meet the needs of image resizing, an **Android application** called [TranquilLearn](https://github.com/Ezharjan/TranquilLearn/releases/tag/v1.0) using Java. etc in late 2020.
+- I **participated** in the development of [Wild Helper](https://github.com/WildHelper/MiniProgram.git), a WeChat mini-app for students to check their exam results in school in early 2020.
+- I **led** a technology project called the [Fun Bag](https://github.com/Ezharjan/FunBag.git), which is a bag-taking system for supermarkets aimed at advocating environmental protection in late 2019.
+- As a training lecturer, I **taught** [_Programming in C_](https://en.wikipedia.org/wiki/C_(programming_language)) for [international students](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/awards/国际学院C语言辅导记录照片.jpg) at [Beijing-Dublin International College](https://www.ucd.ie/bdic/) for one semester in 2019.
+- I **established** the Flash Cultural Studio (programmes included OpenGL introduction, software tutorials and _[Reading and Sharing](https://www.bilibili.com/video/BV1zE411F7m3?share_source=copy_web)_) in 2018.
+- [A series of self-written, self-directed and self-acted Micro Movies](https://www.cnblogs.com/ezhar/p/14259440.html) won various national awards([Rawap With Broken String](https://v.qq.com/x/page/v07763zvo0a.html), [Priceless Youth](https://www.bilibili.com/video/BV1fE411o7z2?share_source=copy_web), [The Way Home](https://www.bilibili.com/video/BV1fE411o7z2?share_source=copy_web), [Once Upon a Time in Kashgar](https://v.qq.com/x/page/u0772ucsspi.html), Looking For Kawser, etc.), during 2014~2018.
+- I was also awarded the [First Prize in the National Campus TV Host Competition](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/awards/全国主持人大赛一等奖奖杯.jpg) in 2015.
+- One of my self-made Micro Movies ([Rawap With Broken String](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/awards/《阳光心弦》证书.jpg)) was publicly revealed on [XJTV](https://en.wikipedia.org/wiki/Xinjiang_Television) in 2014.
 
 
 <br>
@@ -104,7 +106,6 @@ Certificates
 * [Member of China Association of Children's Science Instructors](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/awards/艾孜尔江-中国青少年科技辅导员协会电子会员证.png);
 * [Member of Translators Association of China](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/awards/艾孜尔江-中国翻译协会会员证.jpg);
 * [National Junior Translator (CATTI)](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/awards/国家三级笔译员_艾孜尔江-min.jpg);
-* [CET6 (written test score:536, oral test score: A)](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/awards/大学英语六级成绩证明_艾孜尔江-min.jpg);
 * [Level 2A in National Mandarin Proficiency Test](https://raw.githubusercontent.com/Ezharjan/cv/built/assets/awards/普通话水平测试证书扫描版-min.jpg);
 
 
@@ -115,9 +116,9 @@ Certificates
 School Performance
 ---
 ---
-**Digital Media Technology** (Bachelor of Engineering): Ranking 1st. Weighted average score is 91.04 with a **GPA** of **3.84**. 
-**Sociology** (Bachelor of Law): Weighted average score is 83.83 with a **GPA** of **3.59**.
-**Computer Science** (Master of Science): **GPA** is **3.76**.
+**Digital Media Technology** (`BEng.`): Ranking 1st. Weighted average score is 91.04 with a **GPA** of **3.84**. 
+**Sociology** (`LL.B.`): Weighted average score is 83.83 with a **GPA** of **3.59**.
+**Computer Science** (`M.Sc.`): **GPA** is **3.76**.
 
 <br>
 <br>

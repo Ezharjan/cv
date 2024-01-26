@@ -14,17 +14,17 @@ layout: base
             </section>
         {% endif %}
 
-        <section class="section" id="section-experience">
-            <h2 class="section__title">{{ strings.titles.experience }}</h2>
-            {% set entries = collections.work %}
-            {% set microformat = "p-experience" %}
-            {% include "entrylist.njk" %}
-        </section>
-
         <section class="section" id="section-education">
             <h2 class="section__title">{{ strings.titles.education }}</h2>
             {% set entries = collections.education %}
             {% set microformat = "p-education" %}
+            {% include "entrylist.njk" %}
+        </section>
+
+        <section class="section" id="section-experience">
+            <h2 class="section__title">{{ strings.titles.experience }}</h2>
+            {% set entries = collections.work %}
+            {% set microformat = "p-experience" %}
             {% include "entrylist.njk" %}
         </section>
 
@@ -78,12 +78,15 @@ layout: base
         </section>
     {% endif %}
 
-    {% if repositories.length %}
+    {# {% if repositories.length %}
         <section class="section" id="section-oss">
             <h2 class="section__title">{{ strings.titles.open_source }}</h2>
             {% include "repositories.njk" %}
         </section>
-    {% endif %}
+    {% endif %} #}
 
+    <section class="section" id="section-oss">
+        <h4 class="section__title"><em>{{ "EOF" }}</em></h4>
+    </section>
     
 </main>

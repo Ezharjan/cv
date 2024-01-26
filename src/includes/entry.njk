@@ -29,6 +29,27 @@
                 {% endif %}
             </p>
         {% endif %}
+        
+        {% if entry.data.supervisor %}
+            <p class="entry__supervisor p-org h-card">
+                {% if entry.data.location %}
+                    <span class="p-location">{{ "◦ Advised by" }}</span>
+                {% endif %}
+                {% if entry.data.supervisorUrl %}
+                    <a href="{{ entry.data.supervisorUrl }}" class="p-name u-url" target="_blank" rel="noopener noreferrer">{{ entry.data.supervisor }}</a>
+                {% else %}
+                    <span class="p-name">{{ entry.data.supervisor }}</span>
+                {% endif %}
+                {% if entry.data.cosupervisor %}
+                    <span class="p-location">{{ ", and co-advised by" }}</span>
+                {% endif %}
+                {% if entry.data.cosupervisorUrl %}
+                    <a href="{{ entry.data.cosupervisorUrl }}" class="p-name u-url" target="_blank" rel="noopener noreferrer">{{ entry.data.cosupervisor }}</a>
+                {% else %}
+                    <span class="p-name">{{ entry.data.cosupervisor }}</span>
+                {% endif %}
+            </p>
+        {% endif %}
     </div>
 
     {% if entry.templateContent %}
