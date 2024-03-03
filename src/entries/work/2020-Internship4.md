@@ -1,6 +1,6 @@
 ---
 title: Assistant Game Engine Developer
-organization: Archosuar Games
+organization: Archosaur Games
 organizationUrl: https://www.zulong.com
 location: Beijing, CHN
 start: 2020-11-03
