@@ -23,9 +23,19 @@ npm run start
 7. Place your new images to `assets` folder;
 8. Place the HTML file created by `SingleFile` plugin in the root folder of branch `built`;
 9.  Rename the saved file to `index.html` and open it, revise the line of `Print Button` to the code below:
-```html
-<button class="actions__btn js-print utl-screen-only has-tooltip" aria-label="Print Résumé" onclick="print()">
-```
+
+    [1]
+    ```html
+    <button class="actions__btn js-print utl-screen-only has-tooltip" aria-label="Print Résumé" onclick="print()">
+    ```
+    [2]
+    ```html
+    <button class="actions__btn js-print utl-screen-only has-tooltip" aria-label="IOTSC Résumé" onclick="javascrtpt:window.location.href='https://skliotsc.um.edu.mo/wp-content/uploads/2023/09/%E8%89%BE%E5%AD%9C%E7%88%BE%E6%B1%9F%C2%B7%E8%89%BE%E7%88%BE%E6%96%AF%E8%98%ADCV.pdf'">
+    ```
+    [3]
+    ```html
+    
+    ```
 10.  In branch `built`, use `lua gitPusher.lua` to push the built branch onto the online repository.
 
 
