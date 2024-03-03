@@ -32,11 +32,13 @@ npm run start
     ```html
     <button class="actions__btn js-print utl-screen-only has-tooltip" aria-label="IOTSC Résumé" onclick="javascrtpt:window.location.href='https://skliotsc.um.edu.mo/wp-content/uploads/2023/09/%E8%89%BE%E5%AD%9C%E7%88%BE%E6%B1%9F%C2%B7%E8%89%BE%E7%88%BE%E6%96%AF%E8%98%ADCV.pdf'">
     ```
-    [3] Visit Counter:
+    [3] Visit Counter (at the last `meta` tag before `style`), *change ID value if the number exceeds*:
     ```html
-    <div align='center'><img src='https://www.free-website-hit-counter.com/c.php?d=9&id=163933&s=18' border='0'></div>
+    <div align='right'><img src='https://www.free-website-hit-counter.com/c.php?d=9&id=163937&s=18' border='0'></div>
     ```
+
 10.  In branch `built`, use `lua gitPusher.lua` to push the built branch onto the online repository.
+
 
 
 
@@ -48,6 +50,17 @@ npm run start
 
 1. If you encounter the problem of error output on building the CV, please check your Node.js version if it is `node-v16.17.0-x64` or not. This CV is built via `node-v16.17.0-x64`. It's available [here](https://github.com/Ezharjan/cv/tree/master/env-tools).
 2. If you don't have the stable network environment, the `node_modules` is available [here](https://github.com/Ezharjan/cv/tree/master/env-tools/node_modules-bkup).
+3. More on Page Hit Counter:
+    ```markdown
+    ![Visitor Count](https://profile-counter.glitch.me/{UNIQUE_USER_NAME}/count.svg)
+    ```
+    ```html
+    <div align="right">
+        <img src="https://profile-counter.glitch.me/{UNIQUE_USER_NAME}/count.svg" alt="Visitor Count">
+    </div> 
+    ```
+    Or visit [here](https://github.com/antonkomarev/github-profile-views-counter) for more reference.
+
 
 
 
