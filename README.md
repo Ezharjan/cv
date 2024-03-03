@@ -24,17 +24,19 @@ npm run start
 8. Place the HTML file created by `SingleFile` plugin in the root folder of branch `built`;
 9.  Rename the saved file to `index.html` and open it, revise the line of `Print Button` to the code below:
 
-    [1]
+    [1] Printable Resume (Place at the end):
     ```html
     <button class="actions__btn js-print utl-screen-only has-tooltip" aria-label="Print Résumé" onclick="print()">
     ```
-    [2]
+    [2] Resume outside (Place at the end):
     ```html
     <button class="actions__btn js-print utl-screen-only has-tooltip" aria-label="IOTSC Résumé" onclick="javascrtpt:window.location.href='https://skliotsc.um.edu.mo/wp-content/uploads/2023/09/%E8%89%BE%E5%AD%9C%E7%88%BE%E6%B1%9F%C2%B7%E8%89%BE%E7%88%BE%E6%96%AF%E8%98%ADCV.pdf'">
     ```
-    [3]
+    [3] Visit Counter (Place at the head under the last `meta` tag before `style`):
     ```html
-    
+    <script type='text/javascript'
+    src='https://www.freevisitorcounters.com/auth.php?id=bfd5b4f06bc066dc84f64dab7686a4acb6ac3959'></script>
+    <script type="text/javascript"> document.write('<div style="text-align: right; margin-left: auto; margin-top: 0;"><img src="https://www.freevisitorcounters.com/en/counter/render/1154365/t/0" border="0" class="counterimg"></div>');</script>
     ```
 10.  In branch `built`, use `lua gitPusher.lua` to push the built branch onto the online repository.
 

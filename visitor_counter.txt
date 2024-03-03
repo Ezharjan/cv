@@ -1,0 +1,17 @@
+http://www.free-website-hit-counter.com/
+
+<div align='center'><a href='https://www.free-website-hit-counter.com'><img src='https://www.free-website-hit-counter.com/c.php?d=9&id=163927&s=1' border='0' alt='Free Website Hit Counter'></a><br / ><small><a href='https://www.free-website-hit-counter.com' title="Free Website Hit Counter">Free website hit counter</a></small></div>
+
+
+---
+---
+---
+
+
+https://www.freevisitorcounters.com/
+
+Delete some tags like "<a href>" and Only use the following parts of the copied code:
+
+<script type='text/javascript'
+    src='https://www.freevisitorcounters.com/auth.php?id=9697ca86cd4d83093900eb1f6669f1459ce2f75b'></script>
+    <script type="text/javascript"> document.write('<div style="text-align: right; margin-left: auto; margin-top: 0;"><img src="https://www.freevisitorcounters.com/en/counter/render/1154365/t/0" border="0" class="counterimg"></div>');</script>
