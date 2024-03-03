@@ -48,8 +48,9 @@ npm run start
 
 ### Known Issues
 
-1. If you encounter the problem of error output on building the CV, please check your Node.js version if it is `node-v16.17.0-x64` or not. This CV is built via `node-v16.17.0-x64`.
+1. If you encounter the problem of error output on building the CV, please check your Node.js version if it is `node-v16.17.0-x64` or not. This CV is built via `node-v16.17.0-x64`. It's available [here](https://github.com/Ezharjan/cv/tree/master/env-tools).
 2. If you don't have the stable network environment, the `node_modules` is available [here](https://github.com/Ezharjan/cv/tree/master/env-tools/node_modules-bkup).
+
 
 
 
