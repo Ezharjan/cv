@@ -41,7 +41,7 @@
                     <span class="p-name">{{ entry.data.supervisor }}</span>
                 {% endif %}
                 {% if entry.data.cosupervisor %}
-                    <span class="p-location">{{ ", and co-advised by" }}</span>
+                    <span class="p-location">{{ ", and " }}</span>
                 {% endif %}
                 {% if entry.data.cosupervisorUrl %}
                     <a href="{{ entry.data.cosupervisorUrl }}" class="p-name u-url" target="_blank" rel="noopener noreferrer">{{ entry.data.cosupervisor }}</a>
